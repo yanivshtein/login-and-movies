@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>104346613956-l6djtjm2e69miv3mi67ocf6brel3cfpv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.104346613956-l6djtjm2e69miv3mi67ocf6brel3cfpv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA51DFy_cjwJruv-i3ZFAG_YgMUFHokzv4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>104346613956</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>yaniv.shtein.login-and-movies</string>
+	<key>PROJECT_ID</key>
+	<string>login-and-movies</string>
+	<key>STORAGE_BUCKET</key>
+	<string>login-and-movies.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:104346613956:ios:f468401dd2041357837191</string>
+</dict>
+</plist>
