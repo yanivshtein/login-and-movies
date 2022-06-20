@@ -14,7 +14,7 @@ class RegisterViewController: UIViewController {
     private let label: UILabel = {
         let label = UILabel()
         label.textAlignment = .center
-        label.text = "Log In"
+        label.text = "Register"
         label.font = .systemFont(ofSize: 24, weight: .semibold)
         return label
     }()
